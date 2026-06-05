@@ -69,7 +69,7 @@ Both modes also have a *REVERSE* sub-mode: long press of the *RED* button (circl
 
 ## **🎬DEMO**
 
-[Demo video] — *soon*
+<video src="https://github.com/user-attachments/assets/24fbcfbd-a209-40d3-9cdd-c5182fa0e057" controls width="100%"></video>
 
 ## **🚀IMPROVEMENT PLANS**
 

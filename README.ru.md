@@ -66,7 +66,7 @@
 
 ## **🎬ДЕМОНСТРАЦИЯ**
 
-[Demo video] — *скоро*
+<video src="https://github.com/user-attachments/assets/24fbcfbd-a209-40d3-9cdd-c5182fa0e057" controls width="100%"></video>
 
 ## **🚀ПЛАНЫ ПО УЛУЧШЕНИЮ**
 
