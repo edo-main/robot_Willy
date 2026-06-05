@@ -1,0 +1,16 @@
+1.  Arduino Mega
+2.  Gamepad PS2 Dualshock 2.4g
+3.  Driver module BTS7960 (43A)
+4.  Motors JGB37-555 (12V, 960RPM) x2
+5.  OLED 0.96 Display 128x64 (4PIN I2C)
+6.  Battery LiFePo4 (12V, 20Ah)
+7.  Mini560 (DC-DC step-down module)
+      Input: 7V-20V 
+      Output: 5V
+8.  Mini560 (DC-DC step-down module)
+      Input: 5V-20V 
+      Output: 3.3V
+9.  LED matrix 2*2 RGB x2
+10. LED 1W 3.3V  x2
+11. Relay 5V
+12. Battery indicator LiFePo4

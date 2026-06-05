@@ -1,0 +1,35 @@
+# Arduino IDE
+*.bak
+*.orig
+*.ino.preprocessed
+*.ino.tmp
+*.ino.with_bootloader
+build/
+__pycache__/
+
+# VS Code
+.vscode/
+.vs/
+*.code-workspace
+
+# macOS/Windows system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fusion 360 temp files
+*.backup*
+*.f3d.files/
+*.f3d.lock
+*.f3z.tmp
+
+# STL backups
+*.stl.bak
+
+# Python 
+*.pyc
+__pycache__/
+
+# Local
+archive/
+code/oldCode/
