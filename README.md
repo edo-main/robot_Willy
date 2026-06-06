@@ -4,8 +4,7 @@
 ### Status: 🚧 Work in progress
 
 ![From the front](assets/images/frontAI.png)
-![The render](assets/images/render.png)
-
+![From the side](assets/images/sideAI.png)
 
 ### This is a tracked robot platform — a semi-fun project for learning new skills through constant evolution. Most of the body parts are 3D-printed plastic. It's already the 4th version, where I stripped away unnecessary features and electronics to focus purely on the chassis and movement.
 
@@ -38,10 +37,11 @@
 
 
 ## **🔌WIRING DIAGRAM**
-
+## [📁 schematics/](schematics/)
 ![Схема](assets/images/wiring_bb.png)
 
 ## **🧩3D MODELS**
+![The render](assets/images/render.png)
 
 ### **Fusion 360 source files and STL files for printing:** 
 ## [📁 cad/](cad/)
@@ -69,7 +69,7 @@ Both modes also have a *REVERSE* sub-mode: long press of the *RED* button (circl
 
 ## **🎬DEMO**
 
-<video src="https://github.com/user-attachments/assets/24fbcfbd-a209-40d3-9cdd-c5182fa0e057" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/8e95fd8e-c475-427c-9a74-5bab0e384232" controls width="100%"></video>
 
 ## **🚀IMPROVEMENT PLANS**
 
@@ -95,3 +95,7 @@ Both modes also have a *REVERSE* sub-mode: long press of the *RED* button (circl
 ![Earliest version](assets/images/Earliest_version.png)
 ![Early version 2](assets/images/Early_version_2.1.png)
 ![Early version 3](assets/images/Early_version_3.png)
+
+## License
+
+This project is licensed under the **MIT License**. For more details, see the [LICENSE](LICENSE) file.

@@ -2,9 +2,9 @@
 [English](README.md)
 
 ### Статус: 🚧 В разработке
-![From the front](assets/images/frontAI.png)
-![Рендер](assets/images/render.png)
 
+![From the front](assets/images/frontAI.png)
+![From the side](assets/images/sideAI.png)
 
 ### Управляемая гусеничная платформа, задуманная как полу-развлекательный проект для обучения различным навыкам с постоянной эволюцией. Большинство деталей корпуса пластиковые и напечатаны на 3D-принтере. Это уже 4-я версия робота, в которой я убрал лишние функции и электронику, чтобы сконцентрироваться на ходовой.
 
@@ -36,10 +36,11 @@
 
 
 ## **🔌СХЕМА ПОДКЛЮЧЕНИЯ**
-
+## [📁 schematics/](schematics/)
 ![Схема](assets/images/wiring_bb.png)
 
 ## **🧩3D МОДЕЛИ**
+![Рендер](assets/images/render.png)
 
 ### **Исходники Fusion 360 и STL файлы для печати:** 
 ## [📁 cad/](cad/)
@@ -65,8 +66,7 @@
 Зажатая кнопка *SELECT* + стрелка *ВЛЕВО*: возврат к обычному освещению задних фар
 
 ## **🎬ДЕМОНСТРАЦИЯ**
-
-<video src="https://github.com/user-attachments/assets/24fbcfbd-a209-40d3-9cdd-c5182fa0e057" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/8e95fd8e-c475-427c-9a74-5bab0e384232" controls width="100%"></video>
 
 ## **🚀ПЛАНЫ ПО УЛУЧШЕНИЮ**
 
@@ -92,3 +92,7 @@
 ![Самая ранняя версия](assets/images/Earliest_version.png)
 ![Ранняя версия 2](assets/images/Early_version_2.1.png)
 ![Ранняя версия 3](assets/images/Early_version_3.png)
+
+## Лицензия
+
+Этот проект распространяется под лицензией **MIT**. Подробнее см. в файле [LICENSE](LICENSE).
